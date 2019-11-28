@@ -1,7 +1,7 @@
 ### Snake-Game-ASSEMBLY
 
 
-	Foi desenvolvido um jogo baseado no clássico Snake. Temos como protagonista uma cobra que precisa comer maçãs espalhadas pelo cenário. Diferentemente do original, a cada maçã comida o jogador ganha um ponto, e a cobra não aumenta seu tamanho. O objetivo do jogo é comer o máximo de maçãs possível. A cobra morre se encostar nos extremos norte e sul do cenário, sinalizados com a cor vermelho.   
+Foi desenvolvido um jogo baseado no clássico Snake. Temos como protagonista uma cobra que precisa comer maçãs espalhadas pelo cenário. Diferentemente do original, a cada maçã comida o jogador ganha um ponto, e a cobra não aumenta seu tamanho. O objetivo do jogo é comer o máximo de maçãs possível. A cobra morre se encostar nos extremos norte e sul do cenário, sinalizados com a cor vermelho.   
 
 
 
